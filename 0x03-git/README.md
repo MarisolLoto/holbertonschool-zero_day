@@ -1,3 +1,3 @@
 This is my second Proyect.
 
-*****************By Marisol Lozano******************
+*****************By Marisol Lozano.******************
